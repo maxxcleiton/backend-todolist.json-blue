@@ -1,4 +1,4 @@
-# Repositório dedicado ao arquivo que está sendo nossa Fake API para o projeto To Do List, realizado durante o Módulo 4 na escola de programação Blue EdTech
+## Repositório dedicado ao backend do projeto To Do List, realizado durante o Módulo 4 na escola de programação Blue EdTech
 
 ## Aqui é o backend de nossa aplicação, estou rodando via JSON SERVER NPM
 
