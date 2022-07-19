@@ -1,0 +1,23 @@
+{
+  "name": "backapitodo",
+  "version": "1.0.0",
+  "description": "Aqui é o backend de nossa aplicação, estou rodando via JSON SERVER NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxxcleiton/backend-todolist.json-blue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxxcleiton/backend-todolist.json-blue/issues"
+  },
+  "homepage": "https://github.com/maxxcleiton/backend-todolist.json-blue#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
